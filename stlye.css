@@ -612,7 +612,7 @@ header .icons #menu-bars{
 
 /* media queries */
 
-@media (max-width:1075px){
+@media (max-width:991px){
     html{
         font-size: 55%;
     }
@@ -626,7 +626,7 @@ header .icons #menu-bars{
     }
 }
 
-@media (max-width:360px){
+@media (max-width:768px){
     header .icons #menu-bars{
         display: inline-block;
         }
